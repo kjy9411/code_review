@@ -9,7 +9,7 @@
 TEST(PriorityQueueTest,Trivial){
 	templatePriorityQueue<int> expTarget;
 
-	//Test 1 - Initalize
+	//Test 1 - Initialize
 	ASSERT_TRUE(expTarget.empty()); // empty test
 
 	//Test 2 - Push Datas and Top size
