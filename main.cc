@@ -21,7 +21,7 @@ int main(int argc, char* argv[]) {
   int customNumber = 0;
 
   if (priQueue.empty()) {
-    cout << "[!] Priority Queue is empty - initalized" << endl;
+    cout << "[!] Priority Queue is empty - initialized" << endl;
   }
 
   // push
